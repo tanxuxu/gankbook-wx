@@ -13,8 +13,8 @@
 ### 在page中
 ![appjs](images/3.png) 
 
-### 图例
-![1](images/readme_01.PNG =100) ![1](images/readme_02.PNG =100) ![1](images/readme_03.PNG =100) ![1](images/readme_04.PNG =100)
+### 部分图例
+![1](images/readme_01.PNG) ![1](images/readme_02.PNG)
 
  
 ### 问题
