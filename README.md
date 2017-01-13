@@ -12,6 +12,10 @@
 
 ### 在page中
 ![appjs](images/3.png) 
+
+### 图例
+![1](images/readme_01.png) ![1](images/readme_02.png) ![1](images/readme_03.png) ![1](images/readme_04.png)
+
  
 ### 问题
  由于是api中的url是跳转到第三方网址的，目前微信小程序暂不支持外链的跳转，另外也没有先webview的东西存在，当然iframe也不能用，希望后续

@@ -21,6 +21,10 @@ Page({
     //
     var now = new Date();
     app.getDateData(now,function(res){
+      if(res.length>=0){  //如果当天没有更新，取前一天的
+        that.loadMore();
+        return;
+      }
       that.setData({
         listData: res
       });

@@ -15,26 +15,26 @@
       {
         "pagePath": "pages/index/index",
         "text": "最新",
-        "iconPath": "images/card.png",
-        "selectedIconPath": "images/card_a.png"
+        "iconPath": "images/new.png",
+        "selectedIconPath": "images/new_a.png"
       },
        {
         "pagePath": "pages/fuli/fuli",
         "text": "福利",
-        "iconPath": "images/card.png",
-         "selectedIconPath": "images/card_a.png"
+        "iconPath": "images/fuli.png",
+         "selectedIconPath": "images/fuli_a.png"
       },
        {
         "pagePath": "pages/web/web",
         "text": "前端",
-        "iconPath": "images/card.png",
-         "selectedIconPath": "images/card_a.png"
+        "iconPath": "images/web.png",
+         "selectedIconPath": "images/web_a.png"
       },
        {
         "pagePath": "pages/my/my",
         "text": "我的",
-        "iconPath": "images/card.png",
-         "selectedIconPath": "images/card_a.png"
+        "iconPath": "images/my.png",
+         "selectedIconPath": "images/my_a.png"
       }
       ]
   },
