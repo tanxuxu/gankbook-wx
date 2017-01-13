@@ -1,0 +1,18 @@
+.listBox{
+  background: #eee;
+}
+.listBox .item{
+  display: -webkit-box;
+  background: #fff;
+  padding: 10px;
+  margin-bottom: 8px;
+}
+.listBox .item image{
+  width: 100%;
+}
+.listBox .item .info{
+    width:100%;
+}
+.listBox .item .type{
+  line-height: 40px;
+}

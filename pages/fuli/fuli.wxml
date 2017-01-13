@@ -1,0 +1,15 @@
+<!--index.wxml-->
+<view class="container">
+<scroll-view scroll-y="true" style="height: {{listBoxHeight}}px;" lower-threshold="40" bindscrolltolower ="loadMore">
+  <!--循环列表-->
+  <view class="listBox">
+       <!--循环项-->
+        <view class="item" wx:for="{{listData}}">
+            <view class="info" bindtap="details" data-src="{{item.url}}">
+              <image class="desc" src="{{item.url}}"></image>
+              <text class="type">发布人：{{item.who}}</text>
+            </view>
+        </view>
+  </view>  
+  </scroll-view>
+</view>

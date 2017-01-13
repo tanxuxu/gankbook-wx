@@ -1,0 +1,9 @@
+<view class="container">
+    <image class="avatar" style="width:80px;height:80px;border-radius:50%;display:block;margin:20px  auto;" src="{{userInfo.avatarUrl}}"></image>
+
+    <text>{{userInfo.nickName}}</text>
+
+    <navigator url="../putGank/putGank">
+    <button type="primary" style="margin-top:20px;" hover-class="other-button-hover"> 提交我的干货 </button>
+    </navigator>
+</view>

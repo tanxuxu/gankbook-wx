@@ -1,0 +1,46 @@
+{
+  "pages": [
+     "pages/index/index",
+     "pages/fuli/fuli",
+     "pages/web/web",
+     "pages/my/my",
+     "pages/putGank/putGank"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#fff000",
+    "navigationBarTitleText": "gankBook"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "最新",
+        "iconPath": "images/card.png",
+        "selectedIconPath": "images/card_a.png"
+      },
+       {
+        "pagePath": "pages/fuli/fuli",
+        "text": "福利",
+        "iconPath": "images/card.png",
+         "selectedIconPath": "images/card_a.png"
+      },
+       {
+        "pagePath": "pages/web/web",
+        "text": "前端",
+        "iconPath": "images/card.png",
+         "selectedIconPath": "images/card_a.png"
+      },
+       {
+        "pagePath": "pages/my/my",
+        "text": "我的",
+        "iconPath": "images/card.png",
+         "selectedIconPath": "images/card_a.png"
+      }
+      ]
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  },
+  "debug": true
+}

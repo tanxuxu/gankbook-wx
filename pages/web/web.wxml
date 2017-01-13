@@ -1,0 +1,14 @@
+<view class="container">
+    <scroll-view scroll-y="true" style="height: {{listBoxHeight}}px;" lower-threshold="40" bindscrolltolower ="loadMore">
+  <!--循环列表-->
+  <view class="listBox">
+       <!--循环项-->
+        <view class="item" wx:for="{{listData}}">
+            <view class="info" bindtap="details" data-src="{{item.url}}">
+              <text class="desc">{{item.desc}}</text>
+              <text class="type">分类：{{item.type}}</text>
+            </view>
+        </view>
+  </view>  
+  </scroll-view>
+</view>

@@ -1,0 +1,40 @@
+/**index.wxss**/
+.swiperBox{
+  height: 200px;
+  width: 100%;
+}
+
+.img_item {
+  width: 48%;
+  margin: 1%;
+  display: inline-block;
+  vertical-align: top;
+}
+.listBox{
+  background: #eee;
+  padding: 8px;
+}
+.listBox .item{
+  display: -webkit-box;
+  background: #fff;
+  padding: 15px;
+  margin-bottom: 8px;
+}
+.listBox .item image{
+  width: 120px;
+
+}
+.listBox  .item .info{
+  -webkit-box-flex: 1;
+}
+.listBox .item .desc{
+  font-size: 18px;
+  display: block;
+  color: #333;
+  font-weight: bold;
+}
+.listBox .item .type{
+  color: #ff6700;
+  margin: 10px 0px;
+  font-size: 12px;
+}
