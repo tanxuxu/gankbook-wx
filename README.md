@@ -14,8 +14,8 @@
 ![appjs](images/3.png) 
 
 ### 部分图例
-<img style="display:inline-block; width: 150px;" src="images/readme_01.PNG"/>	
-<img style="display:inline-block;width:150px;" src="images/readme_02.PNG"/>	
+<img style="display:inline-block;" width="150" src="images/readme_01.PNG"/>	
+<img style="display:inline-block;" width="150" src="images/readme_02.PNG"/>	
 
  
 ### 问题
@@ -23,7 +23,7 @@
  微信小程序能提供这样的类似功能
  
 ### 后续
-1、将福利改成瀑布流的展示方式
-2、支持图片下载，放大查看
-3、支持提交干货
-4、完善'我的'ui
+* 将福利改成瀑布流的展示方式
+* 支持图片下载，放大查看
+* 支持提交干货
+* 完善'我的'ui
