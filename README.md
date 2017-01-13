@@ -1,5 +1,5 @@
 ### 导语
- > 微信小程序实例，数据是来源于gank，这是api地址，有兴趣的可以上去看看， ![gank](http://gank.io/api)
+ > 微信小程序实例，数据是来源于gank，这是api地址，有兴趣的可以上去看看， [(gank api地址)](http://gank.io/api)
  
 ### 微信生命周期
 
