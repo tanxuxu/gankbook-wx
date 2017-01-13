@@ -14,7 +14,7 @@
 ![appjs](images/3.png) 
 
 ### 图例
-![1](images/readme_01.png) ![1](images/readme_02.png) ![1](images/readme_03.png) ![1](images/readme_04.png)
+![1](images/readme_01.PNG) ![1](images/readme_02.PNG) ![1](images/readme_03.PNG) ![1](images/readme_04.PNG)
 
  
 ### 问题
