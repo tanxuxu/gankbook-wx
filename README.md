@@ -14,8 +14,8 @@
 ![appjs](images/3.png) 
 
 ### 部分图例
-<img style="display:inline-block;" src="images/readme_01.PNG"/>	
-<img style="display:inline-block;" src="images/readme_02.PNG"/>	
+<img style="display:inline-block; width: 150px;" src="images/readme_01.PNG"/>	
+<img style="display:inline-block;width:150px;" src="images/readme_02.PNG"/>	
 
  
 ### 问题
