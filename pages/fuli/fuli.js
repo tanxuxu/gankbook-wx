@@ -24,9 +24,7 @@ Page({
     },
     loadMore:function(){
         var that = this;
-        this.setData({
-            page : that.data.page++
-        });
+        that.data.page++;
         app.getGankData('福利',that.data.count,that.data.page,function(res){
             that.setData({
                 listData: that.data.listData.concat(res.data.results)
